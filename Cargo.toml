@@ -2,3 +2,5 @@
 name = "worker"
 version = "0.1.0"
 authors = ["OptimisticPeach <optimistic.peach@outlook.com>"]
+description = "A background worker crate, MIT"
+license = "MIT"
